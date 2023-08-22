@@ -1,0 +1,19 @@
+.centre {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+}
+	
+#bg {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100%;
+	min-height: 100%;
+}
+	
+.content {
+	position: fixed;
+	width: 100%;
+}
